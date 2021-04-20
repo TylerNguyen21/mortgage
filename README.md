@@ -20,6 +20,8 @@ npm run start
 
 and open to your localhost:3000
 
+You can also check it out using this link here https://ld-mortgage-calculator.herokuapp.com/
+
 ## Featured Flags
 
 actual-payment-form:  This flag is the root flag for this project that other feature flags will use as a prerequisite.  While on, all featured flags that involve actual payment of morgage will be displayed if their flags are on as well. Users will be able to input the morgage they paid for for that year on a form.  The data from the form will be displayed on the table and/or progress bar.  If this flag is turned off, the user will no longer be able to see: actual payment form, actual data on the table, and no progress bar. The app will turn into its original form as seen in the link above.  
